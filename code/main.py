@@ -186,9 +186,9 @@ def score_quality_evaluation(D, L, DE, LE, wp, C, psi, prior):
     
 if __name__ == '__main__':
     
-    D, L = load("train.txt")
+    D, L = load("../data/train.txt")
     
-    DE, LE = load("test.txt")
+    DE, LE = load("../data/test.txt")
     
     plt.rc('xtick', labelsize=15) 
     plt.rc('ytick', labelsize=15) 
