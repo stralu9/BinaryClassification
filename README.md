@@ -9,7 +9,7 @@ The different classifiers analyzed in this project are:
 - Support Vector Machines
 - Gaussian Mixture Models
 
-The task is divided into tree stages:
+The task is divided into three stages:
 1. The training set is studied to investigate the relationships between features and labels of the training set. 
 2. The different classifiers are trained and their performance on the validation set is compared. In this step model parameters and hyperparameters have been computed.
 3. The final step consists in considering the performances obtained on the test set to assess the goodness of taken decisions.
